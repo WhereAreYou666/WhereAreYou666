@@ -19,5 +19,5 @@ I am Front End developer.
 
 ### Socials
 
-<p align="left"> <a href="https://t.me/whereareyou666" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="32" height="32" /></a> &nbsp;
-<a href="mailto:poluyanov1809@gmail.com" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/9068/9068642.png" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://t.me/whereareyou666" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="36" height="36" /></a> &nbsp;
+<a href="mailto:poluyanov1809@gmail.com" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/9068/9068642.png" width="36" height="36" /></a> </p>
