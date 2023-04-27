@@ -36,4 +36,4 @@ I am Front End developer.
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/stefan-topalovic-dev/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg](https://www.flaticon.com/free-icon/telegram_2111646)" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://t.me/whereareyou666" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="32" height="32" /></a> </p>
