@@ -7,7 +7,7 @@ I am Front End developer.
 --------------------------
 
 *   🌍  I'm based in Belgorod, Russia
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='#'>Portfolio</a> (in progress)
+*   🖥️  See my portfolio at my <a target="_blank" rel="noreferrer" href='#'>website</a> (in progress)
 *   🤝  Open to collaboration, <a target="_blank" rel="noreferrer" href='https://t.me/whereareyou666'>contact</a>
 
 ### Skills
