@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Front End developer.
 --------------------------
 
-*   🌍  I'm based in Belgorod, Russia
+*   🌍  I am based in Belgorod, Russia
 *   🖥️  See my portfolio at my <a target="_blank" rel="noreferrer" href='#'>website</a> (in progress)
 *   🤝  Open to collaboration, <a target="_blank" rel="noreferrer" href='https://t.me/whereareyou666'>contact</a>
 
